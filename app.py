@@ -5,6 +5,7 @@ import joblib
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import scikit-learn
 from sklearn.metrics import (
     classification_report, confusion_matrix, accuracy_score,
     roc_auc_score, matthews_corrcoef, cohen_kappa_score
